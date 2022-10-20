@@ -7,10 +7,7 @@ blurb:
   text: 義務教育でいうところの通知表や考課表。テストの点数など「数値」として明瞭化された評価基準。もちろん賛否両論あると思うし、その結果に不満があった人の意見は否定するつもりはない。しかし、事実として努力が数値として認められるその一点においては、平等であることには違いなかった。
 intro:
   heading: 社会人：曖昧で忖度だらけの競争世界
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: 明瞭な評価基準がない事が多い。特に技術職は売上といった明確な数値がなく、達成された数値が
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
